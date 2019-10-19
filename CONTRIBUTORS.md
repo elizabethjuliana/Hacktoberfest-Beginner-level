@@ -75,3 +75,5 @@
 
 * [Raden6](https://github.com/Raden6)
 
+* [Elizabeth Juliana](https://github.com/elizabethjuliana)
+
